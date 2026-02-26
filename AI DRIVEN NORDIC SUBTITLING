@@ -1,0 +1,245 @@
+AI DRIVEN NORDIC SUBTITLING 
+
+This project focuses on developing advanced AI tools for machine translation, transcription, text generation, and subtitling in both standard Swedish and Finland Swedish. The goal is to create language technology that understands regional vocabulary, pronunciation, and cultural nuances, ensuring accurate and natural language processing. for users in Sweden and Swedish-speaking Finland. 
+
+Since broadcasting law requires that all audiovisual content be subtitled, this project aims to develop an AI-based procedure for efficient, accurate, and high-quality subtitling in Swedish and Finland Swedish. 
+
+Building on several years of experience coordinating translations for broadcast, the project combines practical industry knowledge with advanced AI tools. for: 
+
+Automatic speech recognition (transcription) 
+
+Machine translation 
+
+AI-assisted text generation 
+
+Smart subtitling adapted to regional language variation 
+
+The goal is to streamline the subtitling workflow while maintaining linguistic quality, legal compliance, and sensitivity to regional differences in Swedish spoken in Sweden and Finland. 
+
+By integrating AI into the subtitling process, the project seeks to reduce costs, increase speed, and ensure accessibility standards are consistently met. 
+
+The overall aim is to improve digital accessibility, communication, and inclusion for Swedish speakers in different Nordic regions. 
+
+AI Techniques That Would Be Helpful 
+
+1. Automatic Speech Recognition (ASR) 
+
+Transformer-based speech models 
+
+Fine-tuned acoustic models for Finland Swedish 
+
+Domain adaptation for broadcast speech 
+
+ 
+
+2. Neural Machine Translation (NMT) 
+
+Transformer-based sequence-to-sequence models 
+
+Fine-tuning on subtitle-style text 
+
+Domain-adapted translation models 
+
+3. Large Language Models (LLMs) 
+
+Useful for: 
+
+Post-editing subtitles 
+
+Tone and style adaptation 
+
+Automatic subtitle condensation 
+
+Generating multiple subtitle variations 
+
+ 
+
+4. Transfer Learning 
+
+Instead of training from scratch: 
+
+Fine-tune existing multilingual models 
+
+Adapt general models to Nordic broadcast data 
+
+This reduces cost and data requirements. 
+
+5. Human-in-the-Loop AI 
+
+Very important for the domain: 
+
+AI drafts → human editor validates 
+
+Active learning improves system over time 
+
+Quality assurance loop 
+
+Given my experience coordinating translations, this hybrid workflow is a strong advantage. 
+
+The project depends on high-quality parallel audio-text corpora, subtitle datasets, and regionally representative Swedish language data. Transformer-based ASR and NMT models, fine-tuned through transfer learning and supported by human-in-the-loop validation, are expected to provide optimal performance for legally compliant, high-quality subtitling. 
+
+The solution would be used in the broadcasting and media production industry, where subtitling is legally required for accessibility. 
+
+It would operate in: 
+
+Public service broadcasting (TV, streaming platforms) 
+
+Commercial media companies 
+
+Production companies 
+
+Post-production and localization agencies 
+
+Newsrooms and live broadcast environments 
+
+The tool would be integrated into existing subtitling and translation workflows, supporting both pre-recorded and potentially live content. 
+
+ 
+
+Primary Users 
+
+1. Subtitlers and Translators 
+
+Use AI for drafting subtitles 
+
+Post-edit AI-generated output 
+
+Ensure linguistic quality and compliance 
+
+2. Broadcast Coordinators / Localization Managers 
+
+Oversee workflows 
+
+Ensure deadlines are met 
+
+Maintain consistency and legal compliance 
+
+3. Media Organizations 
+
+Use the system to reduce cost and increase efficiency 
+
+Ensure accessibility regulations are met 
+
+ 
+
+People Affected by the Solution 
+
+1. Viewers (Major Stakeholder Group) 
+
+Especially: 
+
+Deaf and hard-of-hearing audiences 
+
+Non-native speakers 
+
+Elderly viewers 
+
+Swedish speakers in both Sweden and Finland 
+
+ 
+
+For them, subtitle quality directly affects: 
+
+Accessibility 
+
+Inclusion 
+
+Cultural representation 
+
+Trust in public broadcasting 
+
+ 
+
+2. Swedish-Speaking Minority in Finland 
+
+A particularly important group: 
+
+Need recognition of Finland Swedish vocabulary and pronunciation 
+
+Risk being linguistically “standardized away” if models are not adapted 
+
+This group is both linguistically and culturally affected. 
+
+ 
+
+3. Professional Translators and Subtitlers 
+
+They may experience: 
+
+Increased efficiency 
+
+Shift in role (from translator to editor) 
+
+Concern about job displacement 
+
+Need for reskilling 
+
+Their perspective is critical for ethical implementation. 
+
+4. Broadcasters and Policymakers 
+
+Responsible for legal compliance 
+
+Interested in cost reduction 
+
+Concerned about reputation and quality 
+
+ 
+
+Ethical and Social Considerations 
+
+Does AI reduce quality or improve it? 
+
+Does it respect dialect variation? 
+
+Does it introduce bias? 
+
+Does it threaten professional expertise? 
+
+Does it improve accessibility for vulnerable groups? 
+
+Balancing efficiency with linguistic and cultural integrity is essential. 
+
+The solution is used in broadcast and media production environments by translators, subtitlers and localization managers. It affects viewers—especially deaf and hard-of-hearing audiences and Swedish-speaking minorities—as well as language professionals and media organizations. Careful consideration must be given to accessibility, linguistic diversity, professional impact, and ethical implementation. 
+
+Although AI can significantly streamline subtitling and translation workflows, human oversight is always required. A qualified language professional must review the output to ensure: 
+
+Accuracy – The translation preserves the original meaning. 
+
+Completeness – No important details have been added, removed, or altered. 
+
+Nuance and tone – The emotional tone and subtle meanings are maintained. 
+
+ 
+
+AI systems may struggle with: 
+
+Dialectal variation 
+
+Idiomatic expressions 
+
+Humor and irony 
+
+Context-dependent meaning 
+
+Sensitive cultural or political nuances 
+
+Grammar and fluency – The text reads naturally in the target language. 
+
+Cultural adaptation – Cultural references are understandable and appropriate. 
+
+Regional variation – Swedish spoken in Sweden differs from Swedish spoken in Finland, and this distinction must be respected. 
+
+Localization standards – Measurements, dates, time formats, and conventions are adapted when necessary. 
+
+Consistency – Terminology and style remain coherent throughout. 
+
+Therefore, the project relies on a human-in-the-loop model, where AI assists but does not replace professional judgment. 
+
+ 
+
+A correct translation must be accurate, natural, consistent, and appropriate for the audience and context. AI can support this process, but human expertise remains essential to guarantee quality and cultural sensitivity. 
+
+ 
+
+ 
